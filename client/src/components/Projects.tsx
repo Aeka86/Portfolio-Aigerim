@@ -43,6 +43,13 @@ const projects = [
     technologies: ["HTML", "CSS", "Responsive Design"],
     liveUrl: "https://codepen.io/Aika86/full/LYOLRyM",
   },
+   {
+    title: "Bluebonnet Clean Co. (Concept Website)",
+    description: "A concept website for a local house and office cleaning company, with a before/after slider, service overview and free quote form. Fully responsive.",
+    image: "https://i.postimg.cc/67kv8TMc/Screenshot-2026-11-05-at-20-34-35.png",
+    technologies: ["HTML", "CSS", "JavaScript"],
+    liveUrl: "https://bluebonnetclean.netlify.app/",
+  },
 ];
 
 export default function Projects() {
